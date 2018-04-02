@@ -9,6 +9,10 @@
 - Using multiple http links
   - [links for long connection && short connection](./长链接&短链接&双工&单工.md)
 
+## Web Push Technologies
+- Comet
+- WebSocket
+
 ## WebSocket protocol 
 ### 使用背景
 - 实现单个TCP连接的双向通信
